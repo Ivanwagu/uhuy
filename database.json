@@ -225,8 +225,8 @@
       "catexp": 0
     },
     "6283861331537@s.whatsapp.net": {
-      "exp": 99999999999999999,
-      "limit": 99999999999999999,
+      "exp": 100000000000000000,
+      "limit": 100000000000000000,
       "lastclaim": 0,
       "registered": false,
       "spammer": 0,
@@ -263,7 +263,7 @@
       "korbanngocok": 0,
       "Banneduser": false,
       "BannedReason": "",
-      "money": 99999999999999999,
+      "money": 100000000000000000,
       "bank": 0,
       "atm": 0,
       "fullatm": 0,
@@ -673,8 +673,8 @@
       "catexp": 0
     },
     "6285876830674@s.whatsapp.net": {
-      "exp": 99999999999999999,
-      "limit": 99999999999999999,
+      "exp": 100000000000000000,
+      "limit": 100000000000000000,
       "lastclaim": 0,
       "registered": false,
       "spammer": 0,
@@ -711,7 +711,7 @@
       "korbanngocok": 0,
       "Banneduser": false,
       "BannedReason": "",
-      "money": 99999999999999999,
+      "money": 100000000000000000,
       "bank": 0,
       "atm": 0,
       "fullatm": 0,
@@ -1744,7 +1744,7 @@
       "jeruk": 0,
       "job": "Pengangguran",
       "lbars": "[▒▒▒▒▒▒▒▒▒]",
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "healt": 100,
       "title": 0,
@@ -4890,7 +4890,7 @@
       "catexp": 0
     },
     "6282110124283@s.whatsapp.net": {
-      "exp": 59191,
+      "exp": 30000,
       "limit": 13,
       "lastclaim": 1676368817428,
       "registered": false,
@@ -4928,7 +4928,7 @@
       "korbanngocok": 0,
       "Banneduser": false,
       "BannedReason": "",
-      "money": 37651,
+      "money": 30000,
       "bank": 0,
       "atm": 0,
       "fullatm": 0,
@@ -7091,7 +7091,7 @@
       "lastmulung": 1676451494969
     },
     "6285361743671@s.whatsapp.net": {
-      "exp": 217695,
+      "exp": 30000,
       "limit": 5,
       "lastclaim": 0,
       "registered": false,
@@ -8212,7 +8212,7 @@
       "lastmaling": 1676368778990
     },
     "6287855168576@s.whatsapp.net": {
-      "exp": 127728,
+      "exp": 30000,
       "limit": 6,
       "lastclaim": 1676528096104,
       "registered": false,
@@ -8250,7 +8250,7 @@
       "korbanngocok": 0,
       "Banneduser": false,
       "BannedReason": "",
-      "money": 91760,
+      "money": 30000,
       "bank": 0,
       "atm": 0,
       "fullatm": 0,
@@ -17216,7 +17216,7 @@
       "catexp": 0
     },
     "6285809011357@s.whatsapp.net": {
-      "exp": 1367,
+      "exp": 1552,
       "limit": 20,
       "lastclaim": 0,
       "registered": false,
@@ -17228,7 +17228,7 @@
       "haus": 100,
       "laper": 100,
       "stamina": 100,
-      "pc": 1676541278508,
+      "pc": 1676579773962,
       "joinlimit": 1,
       "coin": 0,
       "age": -1,
@@ -18067,7 +18067,7 @@
       "catexp": 0
     },
     "6285730107618@s.whatsapp.net": {
-      "exp": 2341755,
+      "exp": 30000,
       "limit": 9,
       "lastclaim": 1676456864211,
       "registered": false,
@@ -18105,7 +18105,7 @@
       "korbanngocok": 0,
       "Banneduser": false,
       "BannedReason": "",
-      "money": 2152979,
+      "money": 30000,
       "bank": 0,
       "atm": 0,
       "fullatm": 0,
@@ -23307,7 +23307,7 @@
       "premiumTime": 0
     },
     "6287756270704@s.whatsapp.net": {
-      "exp": 111668,
+      "exp": 30000,
       "limit": 5,
       "lastclaim": 1676568273014,
       "registered": true,
@@ -23345,7 +23345,7 @@
       "korbanngocok": 0,
       "Banneduser": false,
       "BannedReason": "",
-      "money": 91488,
+      "money": 30000,
       "bank": 0,
       "atm": 0,
       "fullatm": 0,
@@ -24007,10 +24007,10 @@
       "lastSuccess": 1676364316730
     },
     "rpg-leaderboard.js": {
-      "total": 24,
-      "success": 24,
-      "last": 1676535023811,
-      "lastSuccess": 1676535023811
+      "total": 28,
+      "success": 28,
+      "last": 1676579952057,
+      "lastSuccess": 1676579952057
     },
     "sticker-toimg.js": {
       "total": 24,
@@ -24061,10 +24061,10 @@
       "lastSuccess": 1676577438973
     },
     "broadcastgroups.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1676470212933,
-      "lastSuccess": 1676470212933
+      "total": 4,
+      "success": 4,
+      "last": 1676579899679,
+      "lastSuccess": 1676579899679
     },
     "rpg-inventory.js": {
       "total": 46,
@@ -24367,10 +24367,10 @@
       "lastSuccess": 1676568440248
     },
     "info-botinfo.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1676555589748,
-      "lastSuccess": 1676555589748
+      "total": 5,
+      "success": 5,
+      "last": 1676579913576,
+      "lastSuccess": 1676579913576
     },
     "info-database.js": {
       "total": 2,
